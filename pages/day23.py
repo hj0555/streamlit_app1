@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title('st.experimental_get_query_params')
 
-with st.expander('이 입에 대하여'):
+with st.expander('이 앱에 대하여'):
     st.write("`st.experimental_get_query_params`는 사용자 브라우저의 URL에서 직접 쿼리 매개변수를 검색할 수 있게 해줍니다.")
 
 st.header('1. 지침')
